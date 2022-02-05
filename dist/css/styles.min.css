@@ -7,9 +7,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     vertical-align:baseline
 }
 
-footer {
-    font-family: Montserrat;
-}
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
     display:block
@@ -3346,6 +3343,9 @@ strong {
 
 footer {
     background: lightgrey;
+    font-family: Montserrat;
+}
+
 }
 
 .footer-heading {
